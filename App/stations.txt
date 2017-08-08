@@ -1,0 +1,95 @@
+// Chaque station a un identificateur numérique unique
+// utilisé dans le graphe
+
+1	La Marsa Plage
+2	La Corniche
+3	Sidi Edhrif
+4	Sidi Bou Saïd
+5	Carthage Amilcar
+6	Carthage Présidence
+7	Carthage Hannibal
+8	Carthage Dermech
+9	Carthage Birsa
+10	Carthage Salambou
+11	El Kram
+12	L'Aéroport
+13	Khayriddine
+14	La Goulette Casino
+15	La Goulette Neuve
+16	La Goulette
+17	Le Bac
+18	Tunis Marine
+
+
+20	Farhat Hached
+21	Station Barcelone
+22	Habib Thameur
+23	Station République
+
+
+25	Nelson Mandela
+26	Mohamed V
+27	Palestine (A->T)
+
+28	Palestine (T->A)
+
+29	Les Jardins
+30	Cité El Khadhra
+31	La Jeunesse
+32	Cité Sportive
+33	10 Décembre 1984
+34	Cité des Sciences
+35	L'indépendance
+36	Ariana
+
+37	Beb El Khadhra
+38	Beb El Assal
+39	Beb Saadoun
+40	Mefteh Saadallah
+41	Rommena
+42	Campus
+43	14 Janvier 2011
+44	Les Jasmins
+45	Ibn Khaldoon
+
+
+46	Ettahrir
+47	Omrane Supérieur
+48	Ettadhamen
+49	Intilaka
+
+
+50	Bouchoucha
+51	20 Mars
+52	Bardo
+53	Essaïdia
+54	Khaznadar
+55	L'Artisanat
+56	Danden
+57	Slimen Kehia
+58	Moncef Bey
+59	Errazi
+60	Technopôle
+61	Palais El Warda
+62	Campus Manouba
+
+
+63	Beb Alioua
+64	Mohamed Manachou
+65	13 Août
+66	Mohamed Ali
+67	Kabbaria
+68	Ibn Sina
+69	Ouardia 4
+70	Cité Ennour
+71	Abou El Kacem Echebbi
+72	Ben Arous
+
+
+73	Taher Haddad
+
+74	El Ghazeli
+75	Cité Municipale
+76	Ennesri
+77	El Montazah
+78	El Mourouj 2

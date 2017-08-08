@@ -1,0 +1,85 @@
+
+graph.addEdge(s(1), s(2));
+graph.addEdge(s(2), s(3));
+graph.addEdge(s(3), s(4));
+graph.addEdge(s(4), s(5));
+graph.addEdge(s(5), s(6));
+graph.addEdge(s(6), s(7));
+graph.addEdge(s(7), s(8));
+graph.addEdge(s(8), s(9));
+graph.addEdge(s(9), s(10));
+graph.addEdge(s(10), s(11));
+graph.addEdge(s(11), s(12));
+graph.addEdge(s(12), s(13));
+graph.addEdge(s(13), s(14));
+graph.addEdge(s(14), s(15));
+graph.addEdge(s(15), s(16));
+graph.addEdge(s(16), s(17));
+graph.addEdge(s(17), s(18));
+
+graph.addEdge(s(20), s(21));
+graph.addEdge(s(21), s(22));
+graph.addEdge(s(22), s(23));
+
+graph.addEdge(s(25), s(26));
+graph.addEdge(s(26), s(27));
+graph.addEdge(s(27), s(28));
+
+
+graph.addEdge(s(29), s(30));
+graph.addEdge(s(30), s(31));
+graph.addEdge(s(31), s(32));
+graph.addEdge(s(32), s(33));
+graph.addEdge(s(33), s(34));
+graph.addEdge(s(34), s(35));
+graph.addEdge(s(35), s(36));
+graph.addEdge(s(36), s(37));
+
+graph.addEdge(s(37), s(38));
+graph.addEdge(s(38), s(39));
+graph.addEdge(s(39), s(40));
+graph.addEdge(s(40), s(41));
+graph.addEdge(s(41), s(42));
+graph.addEdge(s(42), s(43));
+graph.addEdge(s(43), s(44));
+graph.addEdge(s(44), s(45));
+graph.addEdge(s(45), s(46));
+
+
+graph.addEdge(s(46), s(47));
+graph.addEdge(s(47), s(48));
+graph.addEdge(s(48), s(49));
+
+
+graph.addEdge(s(50), s(51));
+graph.addEdge(s(51), s(52));
+graph.addEdge(s(52), s(53));
+graph.addEdge(s(53), s(54));
+graph.addEdge(s(54), s(55));
+graph.addEdge(s(55), s(56));
+graph.addEdge(s(56), s(57));
+graph.addEdge(s(57), s(58));
+graph.addEdge(s(58), s(59));
+graph.addEdge(s(59), s(60));
+graph.addEdge(s(60), s(61));
+graph.addEdge(s(61), s(62));
+
+graph.addEdge(s(63), s(64));
+graph.addEdge(s(64), s(65));
+graph.addEdge(s(65), s(66));
+graph.addEdge(s(66), s(67));
+graph.addEdge(s(67), s(68));
+graph.addEdge(s(68), s(69));
+graph.addEdge(s(69), s(70));
+graph.addEdge(s(70), s(71));
+graph.addEdge(s(71), s(72));
+
+graph.addEdge(s(74), s(75));
+graph.addEdge(s(75), s(76));
+graph.addEdge(s(76), s(77));
+graph.addEdge(s(77), s(78));
+
+
+for(var i=1; i<=17; ++i) {
+	console.log("graph.addEdge(s(" + i + "), s(" + ( i + 1 ) + "));");
+}

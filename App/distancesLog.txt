@@ -1,0 +1,78 @@
+// Résultat de L'algorithme de parcours en largeur sur le graphe des stations
+// Source : Station La Marsa Plage
+
+distance : La Marsa Plage ---> La Marsa Plage: 0
+distance : La Marsa Plage ---> La Corniche: 1
+distance : La Marsa Plage ---> La Marsa Plage: 2
+distance : La Marsa Plage ---> Sidi Edhrif: 2
+distance : La Marsa Plage ---> Sidi Bou Saïd: 3
+distance : La Marsa Plage ---> Carthage Amilcar: 4
+distance : La Marsa Plage ---> Carthage Présidence: 5
+distance : La Marsa Plage ---> Carthage Hannibal: 6
+distance : La Marsa Plage ---> Carthage Dermech: 7
+distance : La Marsa Plage ---> Carthage Birsa: 8
+distance : La Marsa Plage ---> Carthage Salambou: 9
+distance : La Marsa Plage ---> El Kram: 10
+distance : La Marsa Plage ---> L'Aéroport: 11
+distance : La Marsa Plage ---> Khayriddine: 12
+distance : La Marsa Plage ---> La Goulette Casino: 13
+distance : La Marsa Plage ---> La Goulette Neuve: 14
+distance : La Marsa Plage ---> La Goulette: 15
+distance : La Marsa Plage ---> Le Bac: 16
+distance : La Marsa Plage ---> Tunis Marine: 17
+distance : La Marsa Plage ---> Farhat Hached: 18
+distance : La Marsa Plage ---> Station Barcelone: 19
+distance : La Marsa Plage ---> Habib Thameur: 20
+distance : La Marsa Plage ---> Beb Alioua: 20
+distance : La Marsa Plage ---> Station République: 21
+distance : La Marsa Plage ---> Mohamed Manachou: 21
+distance : La Marsa Plage ---> Nelson Mandela: 22
+distance : La Marsa Plage ---> Beb El Khadhra: 22
+distance : La Marsa Plage ---> 13 Août: 22
+distance : La Marsa Plage ---> Mohamed V: 23
+distance : La Marsa Plage ---> Beb El Assal: 23
+distance : La Marsa Plage ---> Mohamed Ali: 23
+distance : La Marsa Plage ---> Palestine: 24
+distance : La Marsa Plage ---> Beb Saadoun: 24
+distance : La Marsa Plage ---> Kabbaria: 24
+distance : La Marsa Plage ---> El Ghazeli: 24
+distance : La Marsa Plage ---> Les Jardins: 25
+distance : La Marsa Plage ---> Mefteh Saadallah: 25
+distance : La Marsa Plage ---> Bouchoucha: 25
+distance : La Marsa Plage ---> Ibn Sina: 25
+distance : La Marsa Plage ---> Cité Municipale: 25
+distance : La Marsa Plage ---> Cité El Khadhra: 26
+distance : La Marsa Plage ---> Rommena: 26
+distance : La Marsa Plage ---> 20 Mars: 26
+distance : La Marsa Plage ---> Ouardia 4: 26
+distance : La Marsa Plage ---> Ennesri: 26
+distance : La Marsa Plage ---> La Jeunesse: 27
+distance : La Marsa Plage ---> Campus: 27
+distance : La Marsa Plage ---> Bardo: 27
+distance : La Marsa Plage ---> Cité Ennour: 27
+distance : La Marsa Plage ---> El Montazah: 27
+distance : La Marsa Plage ---> Cité Sportive: 28
+distance : La Marsa Plage ---> 14 Janvier 2011: 28
+distance : La Marsa Plage ---> Essaïdia: 28
+distance : La Marsa Plage ---> Abou El Kacem Echebbi: 28
+distance : La Marsa Plage ---> El Mourouj 2: 28
+distance : La Marsa Plage ---> 10 Décembre 1984: 29
+distance : La Marsa Plage ---> Les Jasmins: 29
+distance : La Marsa Plage ---> Khaznadar: 29
+distance : La Marsa Plage ---> Ben Arous: 29
+distance : La Marsa Plage ---> Cité des Sciences: 30
+distance : La Marsa Plage ---> Ibn Khaldoon: 30
+distance : La Marsa Plage ---> Ettahrir: 30
+distance : La Marsa Plage ---> L'Artisanat: 30
+distance : La Marsa Plage ---> L'indépendance: 31
+distance : La Marsa Plage ---> Omrane Supérieur: 31
+distance : La Marsa Plage ---> Danden: 31
+distance : La Marsa Plage ---> Ariana: 32
+distance : La Marsa Plage ---> Ettadhamen: 32
+distance : La Marsa Plage ---> Slimen Kehia: 32
+distance : La Marsa Plage ---> Intilaka: 33
+distance : La Marsa Plage ---> Moncef Bey: 33
+distance : La Marsa Plage ---> Errazi: 34
+distance : La Marsa Plage ---> Technopôle: 35
+distance : La Marsa Plage ---> Palais El Warda: 36
+distance : La Marsa Plage ---> Campus Manouba: 37
