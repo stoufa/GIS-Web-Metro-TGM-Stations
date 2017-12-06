@@ -3,8 +3,9 @@ Application Web qui présente une carte interactive représentant le réseau des
 
 On souhaite développer une application SIG Web permettant d’offrir une carte interactive représentant le réseau des stations de métros et du TGM.
 
-L’application doit permettre l’utilisateur de choisir un point de départ et un point d’arrivée et de lui fournir le(s) chemin(s) qu’il peut emprunter.
+![preview](https://github.com/stoufa/SIG-Web-Metros-TGM/raw/master/sig-web.gif)
 
+L’application doit permettre l’utilisateur de choisir un point de départ et un point d’arrivée et de lui fournir le(s) chemin(s) qu’il peut emprunter.
 
 ![screenshot](https://raw.githubusercontent.com/stoufa/SIG-Web-Metros-TGM/master/Screenshots/4.PNG)
 
